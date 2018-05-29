@@ -11,10 +11,23 @@ This is a simple demo to learn machine learning
  platform
  
  
- > numpy
- > sklearn
- > matplotlib
- > pandas 
+  numpy
+  
+  sklearn
+  
+  matplotlib
+  
+  pandas 
  
- Use Pip command to install  these Dependencies
+      Use Pip command to install  these Dependencies
+  
+  
+  
+  #usage
+  
+  Download those files (.csv and .py) and place them in same directory
+  navigate to that directory in spyder and run the python file 
+  
+  make sure both files are in same folder
+  
   
